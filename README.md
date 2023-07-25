@@ -52,7 +52,7 @@ The backend of Sociogram is primarily built using Spring Boot, a powerful Java-b
 
 Other technologies and tools used in the project include:
 
-- Spring Cloud: For implementing microservices patterns and managing distributed systems.
+- Spring Boot: For creating microservices and managing the application's configuration and dependencies.
 - MongoDB: For NoSQL database storage.
 - Solr: For powerful and efficient search functionality.
 - Firebase: For storing and retrieving multimedia content (images and videos).
