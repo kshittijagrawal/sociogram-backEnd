@@ -45,6 +45,8 @@ Sociogram utilizes three databases to store and retrieve different types of data
 2. **Solr**: Utilized for implementing search functionality, allowing users to find relevant content.
 
 3. **Firebase**: Used to store and retrieve multimedia posts and stories uploaded by users.
+   
+Head [here](https://github.com/kshittijagrawal/sociogram-backEnd/blob/master/assets/database_doc.pdf) to have a look at the databases and the collections used in the database.
 
 ## Technologies Used
 
