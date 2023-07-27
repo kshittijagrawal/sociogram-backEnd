@@ -1,4 +1,4 @@
-# Sociogram - Instagram Inspired Clone
+# Sociogram Backend Impl
 
 Sociogram is a social media platform inspired by Instagram, offering various features that allow users to share images and videos, create stories, comment on posts, like content, follow and be followed, receive notifications for follow requests, and more. The project is built using Spring Boot and follows a microservices architecture with four main microservices: **Users**, **Posts**, **Stories**, and **Search**. Additionally, a separate microservice called **Common Infra** handles user notification services, login/signup authentication, as well as ad management and personalized content recommendations.
 
